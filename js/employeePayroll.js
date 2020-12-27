@@ -16,3 +16,4 @@ function resetHover() {
 function resetHoverOut() {
     document.getElementById("resetButton").className="resetButton";
 }
+
